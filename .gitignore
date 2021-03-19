@@ -1,0 +1,27 @@
+.DS_Store
+.gradle
+
+# Directories
+target/
+*logs/
+
+classes/
+/build
+buildSrc/build
+/**/build
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+
+.gradletasknamecache
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+# VS Code
+.vscode/
